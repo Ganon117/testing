@@ -1,1 +1,2 @@
-Mi primer pull request
+Corrigiendo errrores para el Pull request
+Desarrollo WEb
